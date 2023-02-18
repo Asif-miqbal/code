@@ -1,0 +1,25 @@
+ [ 
+{
+"ARTIST": "jmeel" ,
+ "COUNTRY": "masqad"  ,
+ "COMPANY": "Columbia" , 
+"PRICE": 10.90 ,
+ "YEAR": 1976
+},
+{
+"ARTIST": "Ahmad" ,
+"COUNTRY": "oman" , 
+"COMPANY": "CBS Records" , 
+"PRICE": 9.90 , 
+"YEAR":1966
+},
+{
+"TITLE": "Greatest Hits" ,
+ "ARTIST": "saleem" ,
+ "COUNTRY": "UAE" ,
+"COMPANY": "RCA" ,
+ "PRICE": 9.90 , 
+"YEAR":1945
+}
+
+]

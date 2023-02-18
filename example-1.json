@@ -1,0 +1,25 @@
+[ 
+{
+"ARTIST": "Nadeem" ,
+ "COUNTRY": "kuwait"  ,
+ "COMPANY": "Columbia" , 
+"PRICE": 10.90 ,
+ "YEAR": 1988
+},
+{
+"ARTIST": "Naseem" ,
+"COUNTRY": "Saudi arab" , 
+"COMPANY": "CBS Records" , 
+"PRICE": 9.90 , 
+"YEAR":1966
+},
+{
+"TITLE": "Greatest Hits" ,
+ "ARTIST": "Waseem" ,
+ "COUNTRY": "soda" ,
+"COMPANY": "RCA" ,
+ "PRICE": 9.90 , 
+"YEAR":1945
+}
+
+]
