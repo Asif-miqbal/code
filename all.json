@@ -1,9 +1,12 @@
 {
     "message": {
-        "cat": [],
-        "dog": [],
-        "cat": []
+        "artificial intelligence": [],
+        "chat with client": [],
+        "chat": [],
+        "chat gpt": [],
+        "gpt": [],
+        "social chat": []
         
-    },
+    }
     "status": "success"
 }
