@@ -1,0 +1,9 @@
+{
+    "message": [
+        "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
+        "https://learnwebcode.github.io/json-example/images/dog-1.jpg",
+        "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+       
+    ],
+    "status": "success"
+}
