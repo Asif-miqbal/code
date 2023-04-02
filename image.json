@@ -1,13 +1,13 @@
 {
     "message": [
-        {
+ 
       "https://github.com/Asif-miqbal/code/blob/master/image/artificial-intelligence-1.jpg",
        "https://github.com/Asif-miqbal/code/blob/master/image/chat-with-client-2.jpg",
         "https://github.com/Asif-miqbal/code/blob/master/images/chat-3.jpg",
        "https://github.com/Asif-miqbal/code/blob/master/image/chat-gpt-4.jpg",
        "https://github.com/Asif-miqbal/code/blob/master/image/gpt-5.jpg",
       "https://github.com/Asif-miqbal/code/blob/master/image/social-chat-6.jpg"
-        }
+      
     ],
     "status": "success"
 }
