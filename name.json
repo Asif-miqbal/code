@@ -1,0 +1,219 @@
+{
+    "cars": {
+        "Supra": [],
+        "iQ": [],
+        "Yaris": [],
+        "akita": [],
+        "Vitz": [],
+        "Fortuner": [],
+        "Vigo": [],
+        "GLi": [],
+        "Aqua": [],
+        "Toyota": [
+            "pakistan"
+        ],
+        "Swift": [],
+        "Bolan": [],
+        "Ravi": [],
+        "Alto": [],
+        "Wagon R": [],
+        "Hustler": [],
+        "Dzire": [],
+        "Kizashi": [],
+        "Vitara": [],
+        "Grand": [],
+        "Lapin": [],
+        "Ignis": [],
+        "Kei": [],
+        "Suzuki": [
+            "Japan"
+        ],
+        "car": [
+            "ZS",
+            "Extender",
+            "HS"
+        ],
+        
+        "MG": [
+            "cardigan"
+        ],
+        "Tucson": [],
+        "Elantra": [],
+        "Santa": [],
+        "H100": [],
+        "Creta": [],
+        "i20": [],
+        "Kona": [],
+        "Eon": [],
+        "H1": [],
+        "Nexus": [],
+        "Accent": [
+            "great"
+        ],
+        "Hyundai": [
+            "scottish"
+        ],
+        "City": [],
+        "BRV": [],
+        "Civic": [],
+        "Honda": [
+            "norwegian"
+        ],
+        "HR-V": [],
+        "CR-V": [],
+        "Accord": [],
+        "finnish": [
+            "l"
+        ],
+        "Acadia": [
+            "bichon"
+        ],
+        "g": [],
+        "gr": [
+            "italian"
+        ],
+        "g": [],
+        "ha": [],
+        "vehicle": [
+            "Honda",
+            "Hundai",
+            "Acura",
+            "BMW",
+            "GMC",
+            "Mg",
+            "Suzuki"
+        ],
+        "i8": [],
+        "5": [],
+        "5": [],
+        "X5": [],
+        "X2": [],
+        "X1 ": [],
+        "X5": [],
+        "3": [],
+        "Alpina ": [],
+       
+        "mastiff": [
+            "car",
+            "car",
+            "car"
+        ],
+        "mex": [],
+        "mix": [],
+        "mountain": [
+            "be",
+            "swiss"
+        ],
+        "new": [],
+        "ot": [],
+        "ov": [
+            "caucasian"
+        ],
+        "pap": [],
+        "pek": [],
+        "pem": [],
+        "pin": [
+            "miniature"
+        ],
+        "pit": [],
+        "poi": [
+            "german",
+            "germanlonghair"
+        ],
+        "pome": [],
+        "poo": [
+            "medium",
+            "miniature",
+            "standard",
+            "toy"
+        ],
+        "pu": [],
+        "pu": [],
+        "py": [],
+        "re": [],
+        "re": [
+            "chesapeake",
+            "curly",
+            "flatcoated",
+            "golden"
+        ],
+        "ridgeback": [
+            "rhodesian"
+        ],
+        "rottweiler": [],
+        "saluki": [],
+        "samoyed": [],
+        "schipperke": [],
+        "schnauzer": [
+            "giant",
+            "miniature"
+        ],
+        "segugio": [
+            "italian"
+        ],
+        "setter": [
+            "english",
+            "gordon",
+            "irish"
+        ],
+        "sharpei": [],
+        "sheepdog": [
+            "english",
+            "shetland"
+        ],
+        "shiba": [],
+        "shihtzu": [],
+        "spaniel": [
+            "blenheim",
+            "brittany",
+            "cocker",
+            "irish",
+            "japanese",
+            "sussex",
+            "welsh"
+        ],
+        "spitz": [
+            "japanese"
+        ],
+        "springer": [
+            "english"
+        ],
+        "stbernard": [],
+        "terrier": [
+            "american",
+            "australian",
+            "bedlington",
+            "border",
+            "cairn",
+            "dandie",
+            "fox",
+            "irish",
+            "kerryblue",
+            "lakeland",
+            "norfolk",
+            "norwich",
+            "patterdale",
+            "russell",
+            "scottish",
+            "sealyham",
+            "silky",
+            "tibetan",
+            "toy",
+            "welsh",
+            "westhighland",
+            "wheaten",
+            "yorkshire"
+        ],
+        "tervuren": [],
+        "vizsla": [],
+        "waterdog": [
+            "spanish"
+        ],
+        "weimaraner": [],
+        "whippet": [],
+        "wolfhound": [
+            "irish"
+        ]
+    },
+    "status": "success"
+}
